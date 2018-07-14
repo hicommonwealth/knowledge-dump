@@ -2,7 +2,8 @@
 Store/link ethereum identities with your twitter account (or other social media)
 
 ## Basic flow
-- Create ethereum identity, I
-- Sign a message, M
-- Publish (I,M) in IPFS to receive a hash H
-- Attest to (I,M,H) on Twitter by adding it into a TCR
+1) Create ethereum identity, I
+2) Sign a message, M
+3) Publish (I,M) in IPFS to receive a hash H
+4a) Attest to (I,M,H) on Twitter
+4b) Add record to the TCR
