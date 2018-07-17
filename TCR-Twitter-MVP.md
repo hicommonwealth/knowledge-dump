@@ -10,6 +10,8 @@ Store/link ethereum identities with your twitter account (or other social media)
       * Step 5 is where insertion into TCR has to happen.
 6) Let market verify/challenge identities
 
+Additional "Features" -> include Twitter URL of tweet into IPFS???
+
 ## Extended Flow
 * Full TCR + Identity flow demo out there
 
